@@ -14,5 +14,7 @@ I have a broad interest in robot learning, with a current focus on embodied AI ð
 Education
 ------
 - ***Bachelor of Science in Computer Science***
+
 University of Washington, Seattle, WA
+
 2021 June - 2025 June (Expected Graduation Date)
