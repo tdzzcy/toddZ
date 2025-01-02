@@ -23,5 +23,5 @@ main:
   - title: "CV"
     url: /Todd%20(Chaoyuan)%20Zhang%20CV.pdf
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
