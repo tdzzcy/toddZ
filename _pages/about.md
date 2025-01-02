@@ -24,5 +24,5 @@ Publication
   Submitted to IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025.
 
 - **Vote-Tree-Planner: Optimizing Execution Order in LLM-based Task Planning Pipeline via Voting Mechanism.**  
-  * \****Chaoyuan Zhang\****, Zhaowei Li, Wentao Yuan, Zhihao Zhao.*  
+  * ***Chaoyuan Zhang***, Zhaowei Li, Wentao Yuan, Zhihao Zhao.*  
   Presented at Robotics: Science and Systems Workshop on Task Specification for General-Purpose Intelligent Robots (RSS-W: TaskSpec), 2024.
