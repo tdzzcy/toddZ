@@ -16,3 +16,9 @@ Education
 - **Bachelor of Science in Computer Science**  
   University of Washington, Seattle, WA  
   *June 2021 – Present*
+
+Publication
+======
+- **Towards Autonomous Micromobility through Scalable Urban Simulation.**  
+  *Wayne Wu, Honglin He, Chaoyuan Zhang, Jack He, Seth Z. Zhao, Ran Gong, Quanyi Li, Bolei Zhou.*  
+  Submitted to IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025.
